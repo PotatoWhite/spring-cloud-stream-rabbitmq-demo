@@ -1,0 +1,10 @@
+group 'me.potato.demo.rabbitmq'
+version '1.0-SNAPSHOT'
+
+project(':simple-publisher'){
+
+}
+
+project(':simple-subscriber'){
+
+}
